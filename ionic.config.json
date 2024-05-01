@@ -1,0 +1,7 @@
+{
+  "name": "dichos-famosos",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
